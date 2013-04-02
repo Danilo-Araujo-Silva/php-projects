@@ -1,0 +1,5 @@
+{
+	"require": {
+		"garoudan/philodox": "dev-master" 
+	}
+}
